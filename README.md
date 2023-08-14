@@ -1,4 +1,1 @@
-This is a secondary profile for testing purposes.
-
-Please contact the main profile.
-https://github.com/JorundMartinsen
+I am a software engineer @KROHNE Marine. Here, we develop systems for fuel monitoring, cargo monitoring and bunkering applications.
